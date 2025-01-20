@@ -8,6 +8,8 @@ def like():
 def profile():
     return True
 
+
 def Register():
-    return True
+    return False
+
 
