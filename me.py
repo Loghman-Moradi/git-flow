@@ -12,4 +12,6 @@ def profile():
 def Register():
     return False
 
+def login():
+    return False
 
